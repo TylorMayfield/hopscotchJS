@@ -4,7 +4,7 @@
   "description": "![hopscotchJS logo](images\\hopsoctchJS.png)\r Testing Library based on pupeteer to traverse an application.",
   "main": "index.js",
   "dependencies": {
-    "config": "^3.3.3",
+    "config": "^3.3.6",
     "puppeteer": "^5.5.0"
   },
   "devDependencies": {},
